@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # now loading the data
-df = pd.read_csv(r"C:\Users\anura\OneDrive\Desktop\matplotlib\projects\netflix_titles.csv")
+df = pd.read_csv(r"C:\Users\anura\OneDrive\Desktop\matplotlib\Netflix data visualization\netflix_titles.csv")
 
 
 # now to clean data
